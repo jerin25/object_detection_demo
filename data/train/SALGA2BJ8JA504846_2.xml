@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Invoice image</folder>
+	<filename>SALGA2BJ8JA504846_2.jpg</filename>
+	<path>D:\AI work\Invoice extraction\Invoice image\SALGA2BJ8JA504846_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1411</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>663</ymin>
+			<xmax>948</xmax>
+			<ymax>1118</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dealer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>250</ymin>
+			<xmax>425</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Total</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>542</xmin>
+			<ymin>1185</ymin>
+			<xmax>812</xmax>
+			<ymax>1226</ymax>
+		</bndbox>
+	</object>
+</annotation>

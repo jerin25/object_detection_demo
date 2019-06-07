@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Invoice image</folder>
+	<filename>FACTURE Repair authorisation - VF1R8700461963381 - 796915_1.jpg</filename>
+	<path>D:\AI work\Invoice extraction\Invoice image\FACTURE Repair authorisation - VF1R8700461963381 - 796915_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>554</ymin>
+			<xmax>1000</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Total</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>657</xmin>
+			<ymin>1194</ymin>
+			<xmax>998</xmax>
+			<ymax>1233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dealer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>2</ymin>
+			<xmax>412</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

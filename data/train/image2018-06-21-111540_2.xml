@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Invoice image</folder>
+	<filename>image2018-06-21-111540_2.jpg</filename>
+	<path>D:\AI work\Invoice extraction\Invoice image\image2018-06-21-111540_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1414</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Total</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>620</xmin>
+			<ymin>1113</ymin>
+			<xmax>918</xmax>
+			<ymax>1146</ymax>
+		</bndbox>
+	</object>
+</annotation>
